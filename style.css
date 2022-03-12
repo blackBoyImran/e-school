@@ -60,7 +60,7 @@ p {
   padding: 50px 20px;
   margin-bottom: 20px;
   background-color: #f8fffb;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 .special-book {
   background-color: #ffffff !important;
@@ -88,7 +88,7 @@ section {
   width: 100%;
   align-items: center;
   text-align: center;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 .single-course img:hover {
   transform: scale(1.1);
@@ -144,7 +144,7 @@ section {
 .footer ul li {
   list-style: none;
   margin-top: 5px;
-  transition: color 0.2s;
+  transition: 0.5s;
 }
 .copyrights {
   text-align: center;
