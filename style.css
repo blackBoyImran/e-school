@@ -1,0 +1,166 @@
+body {
+  background-color: #ffffff;
+}
+.header-slide {
+  background-color: #f0fff0;
+  padding-bottom: 70px;
+  margin-bottom: 50px;
+  padding-top: 20px;
+}
+.header-slide h1 {
+  font-weight: 700;
+}
+p {
+  font-size: 18px;
+}
+.categori {
+  font-weight: 700;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 70px;
+}
+.top-banner-img img {
+  width: 100%;
+}
+.ready-btn {
+  background-color: #21b573;
+  padding: 7px 30px;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  font-weight: 700;
+  transition: 0.5s;
+}
+.ready-btn:hover {
+  background-color: black;
+  color: white;
+}
+.details .top-details {
+  line-height: 25px;
+  margin: 30px 0px;
+  padding-right: 30px;
+}
+.details span {
+  color: #21b573;
+}
+.details a {
+  text-decoration: none;
+  color: #fd511a;
+}
+.box div {
+  border: none;
+  border-radius: 10px;
+}
+.book-img {
+  width: 100px;
+}
+.single-box {
+  align-items: center;
+  text-align: center;
+  padding: 50px 20px;
+  margin-bottom: 20px;
+  background-color: #f8fffb;
+  transition: 0.3s;
+}
+.special-book {
+  background-color: #ffffff !important;
+  box-shadow: 0 10px 20px lightgray;
+}
+.single-box:hover {
+  background-color: #ffffff !important;
+  box-shadow: 0 10px 20px lightgray;
+  transform: scale(1.03);
+}
+section {
+  margin-bottom: 80px;
+}
+.single-box h2 {
+  margin-top: 25px;
+}
+
+.single-course {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px lightgray;
+  margin-bottom: 20px;
+}
+.single-course img {
+  width: 100%;
+  align-items: center;
+  text-align: center;
+  transition: 0.3s;
+}
+.single-course img:hover {
+  transform: scale(1.1);
+}
+.photo-wrap {
+  overflow: hidden;
+  border-radius: 10px;
+}
+.separate-box {
+  padding: 5%;
+  overflow: hidden;
+}
+.separate-box h2 {
+  margin-top: 25px;
+}
+.calender-img {
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+.date {
+  margin-top: 30px;
+  margin-bottom: 0px;
+  font-size: 15px;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+.calender img {
+  width: 30px;
+  height: 30px;
+}
+.doctor-img {
+  width: 120px;
+}
+.design {
+  margin: 30px 0px;
+}
+.pragrap {
+  margin-top: 20px;
+}
+.footer {
+  background-color: black;
+  padding: 70px 0px;
+  color: #e6e6e6;
+  margin-top: 50px;
+}
+.footer p {
+  line-height: 30px;
+}
+.footer ul {
+  margin-bottom: 20px;
+}
+.footer ul li {
+  list-style: none;
+  margin-top: 5px;
+  transition: color 0.2s;
+}
+.copyrights {
+  text-align: center;
+  margin-top: 30px;
+  color: #8e8e8f;
+}
+.frist {
+  font-weight: 700;
+}
+.frist:hover {
+  color: #e6e6e6 !important;
+}
+.ulPadding {
+  margin-left: 100px;
+}
+.footer ul li:hover {
+  color: #ffa274;
+  cursor: pointer;
+}
